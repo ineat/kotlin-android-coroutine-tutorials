@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IneatSampleCoroutine</string>
+    <string name="action_load">Load</string>
+    <string name="action_actor">Actor</string>
+    <string name="action_advanced_coroutine">Advanced coroutine</string>
+    <string name="action_simple_coroutine">Simple coroutine</string>
+</resources>
